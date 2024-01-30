@@ -13,5 +13,3 @@ node_modules
 public
 sessions
 .vscode
-
-.env
